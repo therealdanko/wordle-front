@@ -1,0 +1,7 @@
+.header{
+    text-align: center;
+    grid-column: 1 / span 3;
+    grid-row: 1 / span 1;
+    /* font-family: ; */
+    margin-top: 25px;
+}
